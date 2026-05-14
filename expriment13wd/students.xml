@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<class>
+
+   <student rollno="85">
+      <firstname>shreyash</firstname>
+      <lastname>kamble</lastname>
+      <hobby>Gaming</hobby>
+      <marks>92</marks>
+   </student>
+
+   <student rollno="202">
+      <firstname>rohit</firstname>
+      <lastname>Sharma</lastname>
+      <hobby>Cricket</hobby>
+      <marks>89</marks>
+   </student>
+
+   <student rollno="80">
+      <firstname>jay</firstname>
+      <lastname>jadhav</lastname>
+      <hobby>Gaming</hobby>
+      <marks>95</marks>
+   </student>
+
+   <student rollno="76">
+      <firstname>Urja</firstname>
+      <lastname>Gurav</lastname>
+      <hobby>Coding</hobby>
+      <marks>91</marks>
+   </student>
+
+   <student rollno="78">
+      <firstname>Dipak</firstname>
+      <lastname>Bhosale</lastname>
+      <hobby>Music</hobby>
+      <marks>88</marks>
+   </student>
+
+   <student rollno="81">
+      <firstname>Prachi</firstname>
+      <lastname>Chavan</lastname>
+      <hobby>reading</hobby>
+      <marks>93</marks>
+   </student>
+
+</class>
